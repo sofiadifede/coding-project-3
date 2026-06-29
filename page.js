@@ -50,7 +50,7 @@ export default function Home() {
           <ul className="list-disc ml-6 mt-2">
             <li>Worked within the Chief Operating Office in the Enterprise Operations division.</li>
             <li>Collaborated across COO teams.</li>
-            <li>Analyzed sourcing, procurment, and third-party management processes.</li>
+            <li>Analyzed sourcing, procurement, and third-party management processes.</li>
           </ul>
         </div>
 
